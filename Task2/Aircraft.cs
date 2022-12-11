@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Airport
-{                                                           // gregor
+{                                                          
     internal class Aircraft
     {
         private string name = String.Empty;
